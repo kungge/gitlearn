@@ -1,2 +1,5 @@
 conflict is ok.this is the last words.
+I add something at bug-1559 branch.
+I add you r good at 201608161704
 I add vr good at 201608161712 in kwanDic.
+>>>>>>> 162376d000dd0908c6986f32278aefc9f8ccd2b3
